@@ -4,6 +4,12 @@ yt_radio_cubes
 IPython notebooks and scripts for `yt` and radio data for the 2014 ALMA
 Software Workshop.
 
+These can be viewed with the ipynb viewer:
+
+ * [NGC 253](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/jzuhone/yt_radio_cubes/master/ngc_253_evaluated.ipynb)
+ * [M33 HI](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/jzuhone/yt_radio_cubes/master/m33_hi_evaluated.ipynb)
+ * [NGC 253 two files](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/jzuhone/yt_radio_cubes/master/ngc253_two_files_evaluated.ipynb)
+
 To use these notebooks, you will need a working installation of `yt`
 and you will need [AstroPy](http://www.astropy.org) installed in the
 same Python stack as `yt`. To install the stable version of `yt`, you
